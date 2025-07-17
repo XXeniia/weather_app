@@ -54,5 +54,4 @@ Simple weather dashboard built with **Python** and **CustomTkinter** that allows
    python main.py
    ```
 
----
 
